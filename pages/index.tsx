@@ -11,7 +11,7 @@ export default function Home() {
       navigator.share({
         title: `Ankit `,
         text: "this is a description",
-        url: "https://www.leetcv.com/r/ankit2?passcode=963651",
+        url: "https://github.com/",
       });
     }
   };
