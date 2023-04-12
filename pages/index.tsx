@@ -11,7 +11,7 @@ export default function Home() {
       navigator.share({
         title: `Ankit `,
         text: "this is a description",
-        url: "https://check-share.vercel.app/",
+        url: "https://www.leetcv.com/r/ankit2?passcode=963651",
       });
     }
   };
@@ -24,7 +24,10 @@ export default function Home() {
         <link rel="shortcut icon" href="/favicon.ico" />
         <meta property="title" content="meta name title" />
         <meta property="og:site_name" content="meta name sitename" />
-        <meta property="og:url" content="https://facebook.com" />
+        <meta
+          property="og:url"
+          content="https://www.leetcv.com/r/ankit2?passcode=963651"
+        />
       </Head>
       <main className={styles.main}>
         <div className={styles.description}>
