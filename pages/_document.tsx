@@ -15,7 +15,6 @@ class MyDocument extends Document {
           <meta name="description" content="document meta data description" />
           <meta property="og:title" content="leetcv" />
           <meta property="og:site_name" content="leetcv" />
-          <meta property="og:url" content="https://leetcv.com" />
         </Head>
         <body className="font-sans">
           <Main />
