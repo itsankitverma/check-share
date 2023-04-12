@@ -10,7 +10,9 @@ class MyDocument extends Document {
           description="Create a professional resume in <10 min. Seek feedback & update with industry trends."
           key={"document meta data"}
         />
-        <Head></Head>
+        <Head>
+          <link rel="icon" href="/favicon.ico" />
+        </Head>
         <body className="font-sans">
           <Main />
           <NextScript />
