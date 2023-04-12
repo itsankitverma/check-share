@@ -21,6 +21,7 @@ export default function Home() {
       <Head>
         <title>Create Next App</title>
         <meta name="description" content="Meta data index page description." />
+        <link rel="shortcut icon" href="/favicon.ico" />
         <meta property="title" content="meta name title" />
         <meta property="og:site_name" content="meta name sitename" />
         <meta property="og:url" content="https://facebook.com" />
