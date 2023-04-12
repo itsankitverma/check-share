@@ -23,7 +23,7 @@ export default function Home() {
         <meta name="description" content="Meta data index page description." />
         <meta property="title" content="meta name title" />
         <meta property="og:site_name" content="meta name sitename" />
-        <meta property="og:url" content="https://leetcv.com" />
+        <meta property="og:url" content="https://facebook.com" />
       </Head>
       <main className={styles.main}>
         <div className={styles.description}>
