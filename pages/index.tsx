@@ -11,6 +11,7 @@ export default function Home() {
       navigator.share({
         title: `Ankit `,
         text: "this is a description",
+        url: "https://check-share.vercel.app/",
       });
     }
   };
